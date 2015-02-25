@@ -1,0 +1,134 @@
+clean_threshold_hours: 168
+
+admins:
+  
+ 6d718430-9f7d-4671-a041-bb8c8407e4e6:
+    last_login_name: LOL_BUDDES
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 13 Sep 2014 11:25:36 -0700
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 99.235.246.210
+    
+    e6e8ae90-6998-407c-bafa-e84a1722243b:
+    last_login_name: XxNicozillaxX
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Tue, 9 Sep 2014 17:08:18 -0700
+    custom_login_message: '&1System Co Owner'
+    console_aliases: []
+    ips:
+    - 50.154.172.44
+  
+    3993d2e8-6709-4d99-9cc2-c1cae6dd7cb4:
+    last_login_name: zthehorsekid
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Fri, 12 Sep 2014 12:22:56 -0700
+    custom_login_message: '&1System CoOwner'
+    console_aliases: []
+    ips:
+    - 68.196.108.10
+    
+    3a14b423-babd-4056-ac8d-a9a68f0f4b0c:
+    last_login_name: charlie5690
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Fri, 12 Sep 2014 20:50:11 -0700
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 64.58.31.74
+    
+    652b83cf-42a5-4a68-919a-383bf82bfe79:
+    last_login_name: evanator324
+    is_activated: false
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 13 Sep 2014 11:45:52 -0700
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 68.192.164.96
+    
+    79aaf4b6-ede4-4241-9a8c-d6bb52e01fc7:
+    last_login_name: agent_waddles
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 13 Sep 2014 11:30:03 -0700
+    custom_login_message: a &4System-Admin&b and the &c&l&oPiggy&4&l&nGod&b and the &2Gauardian &bof the &aEarth!
+    console_aliases: []
+    ips:
+    - 174.61.86.10
+    
+    d4de91f4-f039-4124-a531-39fcb9698d35:
+    last_login_name: EXPLODINGTNT001
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sat, 13 Sep 2014 11:36:51 -0700
+    custom_login_message: '&bthe &1&lSpam Lord&b and the&4&l Founder&b of &4EXPLODINGFreedom&b!'
+    console_aliases: []
+    ips:
+    - 68.196.108.10
+    
+    f0eabed0-de78-4d9b-9e0a-e39b86339b1c:
+    last_login_name: hockeyfan360
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: 
+    custom_login_message: a &4System-Admin&b and a&9&l NUBCAKE!!!
+    console_aliases: []
+    ips:
+    - 98.213.228.98
+    
+    415cb945e2c4408d81cd844e238865b6:
+    last_login_name: robgreenwood
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: 
+    custom_login_message: 
+    console_aliases: []
+    ips:
+    - 99.180.117.153
+    
+    737b09cc-6a47-4c41-ba4e-6a7dd3eac023:
+    last_login_name: jayscoob
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sun, 23 Nov 2014 11:08:44 -0700
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 69.141.109.149
+    9cc1d474-b3b1-438b-814d-58cfd23c5a82:
+    last_login_name: hiram2238
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: false
+    last_login: Sun, 23 Nov 2014 09:56:39 -0700
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 47.17.198.34
+          
+    69369da7-110b-401f-a75e-a227a3fd3d25:
+    last_login_name: brickblock12
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sun, 23 Nov 2014 10:11:29 -0700
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 96.245.85.128

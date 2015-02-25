@@ -1,0 +1,8 @@
+name: EXPLODINGFreedomMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 2.0
+description: Plugin for the EXPLODINGFreedom custom All-OP server.
+softdepend: [BukkitTelnet, WorldEdit, Essentials, DisguiseCraft, BarAPI, CoreProtect]
+authors: [EXPLODINGTNT001]
+
+# plugin.yml is no longer used to define commands.

@@ -1,0 +1,52 @@
+// Decompiled by DJ v3.12.12.98 Copyright 2014 Atanas Neshkov  Date: 2/18/2015 6:18:53 PM
+// Home Page: http://www.neshkov.com/dj.html - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   AdminLevel.java
+
+package me.StevenLawson.TotalFreedomMod.Commands;
+
+
+public final class AdminLevel extends Enum
+{
+
+    public static AdminLevel[] values()
+    {
+        return (AdminLevel[])$VALUES.clone();
+    }
+
+    public static AdminLevel valueOf(String name)
+    {
+        return (AdminLevel)Enum.valueOf(me/StevenLawson/TotalFreedomMod/Commands/AdminLevel, name);
+    }
+
+    private AdminLevel(String s, int i, String friendlyName)
+    {
+        super(s, i);
+        this.friendlyName = friendlyName;
+    }
+
+    public String getFriendlyName()
+    {
+        return friendlyName;
+    }
+
+    public static final AdminLevel ALL;
+    public static final AdminLevel OP;
+    public static final AdminLevel SUPER;
+    public static final AdminLevel SENIOR;
+    public static final AdminLevel HELPER;
+    private final String friendlyName;
+    private static final AdminLevel $VALUES[];
+
+    static 
+    {
+        ALL = new AdminLevel("ALL", 0, "All Player Commands");
+        OP = new AdminLevel("OP", 1, "OP Commands");
+        SUPER = new AdminLevel("SUPER", 2, "SuperAdmin Commands");
+        SENIOR = new AdminLevel("SENIOR", 3, "Senior Admin Commands");
+        HELPER = new AdminLevel("HELPER", 4, "Helper Commands");
+        $VALUES = (new AdminLevel[] {
+            ALL, OP, SUPER, SENIOR, HELPER
+        });
+    }
+}
